@@ -1,6 +1,6 @@
 ## 📈 Marketing Campaign Optimization
 
-### 🧠 Project Overview
+### Project Overview
 
 The Marketing Campaign Optimization project aims to maximize ROI by building a predictive model using sentiment analysis and historical campaign data. By applying NLP and machine learning algorithms with Python’s scikit-learn, the model analyzes customer feedback and campaign performance to identify trends and deliver data-driven insights. 
 
@@ -31,3 +31,14 @@ The Marketing Campaign Optimization project aims to maximize ROI by building a p
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/Harshniii/MarketingCampaignOptimization.git
+
+---
+
+#### 2. Run the Streamlit App
+```bash
+streamlit run streamlit_app.py
+
+---
+
+#### 3. Explore the Notebooks
+📁 Go to the notebooks/ folder and open Jupyter notebooks to explore the analysis and model-building process.
