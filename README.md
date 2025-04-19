@@ -28,17 +28,17 @@ The Marketing Campaign Optimization project aims to maximize ROI by building a p
 
 ### ⚙️ Setup Instructions
 
-#### 1. Clone the Repository
-```bash
+### 1. Clone the Repository
+
 git clone https://github.com/Harshniii/MarketingCampaignOptimization.git
 
 ---
 
-#### 2. Run the Streamlit App
-```bash
+### 2. Run the Streamlit App
+
 streamlit run streamlit_app.py
 
 ---
 
-#### 3. Explore the Notebooks
+### 3. Explore the Notebooks
 📁 Go to the notebooks/ folder and open Jupyter notebooks to explore the analysis and model-building process.
