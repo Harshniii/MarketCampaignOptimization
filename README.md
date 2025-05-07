@@ -13,7 +13,6 @@ The Marketing Campaign Optimization project aims to maximize ROI by building a p
 - Sentiment analysis of customer feedback  
 - Predictive modeling based on campaign data  
 - Visual insights to guide decisions  
-- Streamlit-based interactive interface
 
 ---
 
@@ -22,7 +21,6 @@ The Marketing Campaign Optimization project aims to maximize ROI by building a p
 - Python
   -  Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn, nltk, streamlit
 - Jupyter Notebooks for EDA and modeling
-- Streamlit for building the user interface
 
 ---
 
@@ -34,11 +32,5 @@ git clone https://github.com/Harshniii/MarketingCampaignOptimization.git
 
 ---
 
-### 2. Run the Streamlit App
-
-streamlit run streamlit_app.py
-
----
-
-### 3. Explore the Notebooks
+### 2. Explore the Notebooks
 Go to the notebooks/ folder and open Jupyter notebooks to explore the analysis and model-building process.
