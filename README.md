@@ -19,7 +19,7 @@ The Marketing Campaign Optimization project aims to maximize ROI by building a p
 ###  Technology Stack
 
 - Python
-  -  Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn, nltk, streamlit
+  -  Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn
 - Jupyter Notebooks for EDA and modeling
 
 ---
